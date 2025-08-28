@@ -1,6 +1,15 @@
 #Dataset
 Dataset/
+Dataset_balanced/
+Dataset - Copia/
+Dataset_prove/
 #venv
 dl_venv/
 #Directory containing the models
 Models/
+
+#csv
+*.csv
+
+#supports scripts
+balancing_dataset.py
